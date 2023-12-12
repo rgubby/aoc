@@ -1,0 +1,19 @@
+POST /sendmail HTTP/1.1
+Host: mail.hohoholdings.com
+Content-Type: text/plain; charset=utf-8
+Content-Length: [Content Length]
+
+From: kris.kringle@hohoholdings.com
+To: engineering@hohoholdings.com
+Subject: Code Changes Needed
+
+Hello beloved team!
+
+Looks like we need some changes to the code again!
+
+1. there are sometimes naughty kids in the same list
+1. turns out I don't actually need to see the nice children in the list, after all
+1. my golf game ran late this morning.. so since the other two changes were quick to implement, I'm sure this will be just as fast!
+
+- Kris Kringle
+  "at Santa's workshop, we value loyalty over all else"
